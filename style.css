@@ -84,3 +84,44 @@
     align-items: center;
     justify-content: center;
 }
+
+.text {
+    padding: 2rem;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: white;
+}
+
+
+
+.section {
+    background-image: url("./images_Spiderman/Background.jpg");
+    background-size: fill;
+    background-position: center;
+    align-items: center;
+}
+.two_section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+    position: center;
+}
+
+img{
+    margin: 20px;
+    border-radius:50px;
+    border: 5px solid darkred;
+    align-items: center;
+}
+
+.text2 {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: white;
+  text-align: left;
+}
