@@ -125,3 +125,27 @@ img{
   color: white;
   text-align: left;
 }
+
+.section2 {
+    background-image: url("./images_Spiderman/Background.jpg");
+    background-size: fill;
+    background-position: center;
+    align-items: center;
+}
+
+.three-column{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 100px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: white;
+    text-align: center;
+}   
+
+.card-image {
+    width: 250px;
+    height: 350px;
+}
