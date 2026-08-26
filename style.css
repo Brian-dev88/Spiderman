@@ -123,7 +123,7 @@ img{
   font-size: 1.2rem;
   line-height: 1.6;
   color: white;
-  text-align: left;
+  text-align: center;
 }
 
 .section2 {
@@ -148,4 +148,27 @@ img{
 .card-image {
     width: 250px;
     height: 350px;
+    position: center;
+    overflow: hidden;
+    place-items: center;
+}
+
+.text3 {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: white;
+  text-align: center;
+}
+
+.two_section {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.image1 {
+  width: 40%;
+}
+
+.image1 {
+  width: 100%;
 }
