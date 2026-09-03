@@ -144,6 +144,23 @@ navigation-header {
     color: white;
 }
 
+.text4 {
+    padding: 2rem;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: white;
+    text-align: left;
+    width: 80%;
+    align-items: center;
+}
+
+.text5 {
+    padding: 2rem;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: white;
+    text-align: left;
+}
 
 
 .section {
@@ -158,7 +175,6 @@ navigation-header {
     gap: 50px;
     width: 80%;
     margin: auto;
-    margin-top: 40px;
     align-items: center;
     justify-content: center;
     position: center;
@@ -223,4 +239,9 @@ img{
 
 .image1 {
   width: 100%;
+}
+
+strong {
+  font-weight: bold;
+  font-size: 1.6rem;
 }
