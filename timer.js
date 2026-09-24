@@ -1,3 +1,5 @@
+// Timer from Youtube with the help of friends assistance //
+
 const Days = document.getElementById('days');
 const Hours = document.getElementById('hours');
 const Minutes = document.getElementById('minutes');
